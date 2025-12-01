@@ -54,4 +54,4 @@
 
 ###
 computer science?? oh wow u must be smart... yeah, right
-<a href="https://imgflip.com/i/adpc6o"><img src="https://i.imgflip.com/adpc6o.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator"></a></div>
+[![photo-2025-12-01-11-43-00.png](https://i.postimg.cc/FF3RB772/photo-2025-12-01-11-43-00.png)](https://postimg.cc/QVNhBNgb)
