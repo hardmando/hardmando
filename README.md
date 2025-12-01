@@ -2,6 +2,8 @@
 
 ###
 
+### Technologies::
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="25" alt="javascript logo"  />
   <img/>
@@ -21,6 +23,7 @@
 </div>
 
 ###
+### Languages::
 
 <div align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="38" alt="linux logo"  />
@@ -35,6 +38,7 @@
 </div>
 
 ###
+### Contacts::
 
 <div align="left">
   <a href="https://linkedin.com/in/atovshchyk" target="_blank">
