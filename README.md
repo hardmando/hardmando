@@ -42,11 +42,11 @@
 
 <div align="left">
   <a href="https://linkedin.com/in/atovshchyk" target="_blank">LinkedIn
-  </a> </b>
+  </a> <b/>
   <a href="https://t.me/kazumamitai" target="_blank">Telegram
-  </a> </b>
+  </a> <b/>
   <a href="anton.tovshchyk@gmail.com" target="_blank">anton.tovshchyk@gmail.com
-  </a> </b>
+  </a> <b/>
 </div>
 
 ###
