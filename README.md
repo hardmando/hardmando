@@ -26,15 +26,11 @@
 ### Technologies::
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="38" alt="linux logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="38" alt="git logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="38" alt="docker logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/JetBrains-000000?logo=jetbrains&logoColor=white&style=for-the-badge" height="38" alt="jetbrains logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=black&style=for-the-badge" height="38" alt="neovim logo"  />
+  <b>Linux</b> <br />
+  <b>git</b> <br />
+  <b>Docker</b> <br />
+  <b>JetBrains</b> <br />
+  <b>Neovim</b> <br />
 </div>
 
 ###
