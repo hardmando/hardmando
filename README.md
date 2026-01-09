@@ -41,11 +41,11 @@
 ### Contacts::
 
 <div align="left">
-  <a href="https://linkedin.com/in/atovshchyk" target="_blank">
+  <a href="https://linkedin.com/in/atovshchyk" target="_blank">LinkedIn
   </a>
-  <a href="https://t.me/kazumamitai" target="_blank">
+  <a href="https://t.me/kazumamitai" target="_blank">Telegram
   </a>
-  <a href="anton.tovshchyk@gmail.com" target="_blank">
+  <a href="anton.tovshchyk@gmail.com" target="_blank">anton.tovshchyk@gmail.com
   </a>
 </div>
 
