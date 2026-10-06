@@ -1,37 +1,5 @@
 <h2 align="left">grim and dark hypnotic moon is being merciful tonight</h2>
 
-###
-
-### Languages::
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" width="25" alt="javascript logo"  />
-  <img/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" width="25" alt="typescript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" width="25" alt="cplusplus logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="25" width="25" alt="rust logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="25" width="25" alt="go logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" width="25" alt="csharp logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" width="25" alt="java logo"  />
-</div>
-
-###
-### Technologies::
-
-<div align="left">
-  <b>Linux</b> <br />
-  <b>git</b> <br />
-  <b>Docker</b> <br />
-  <b>JetBrains</b> <br />
-  <b>Neovim</b> <br />
-</div>
-
-###
 ### Contacts::
 
 <div align="left">
